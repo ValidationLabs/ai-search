@@ -9,7 +9,7 @@ app = Flask(__name__)
 # US multi-region configuration
 PROJECT_ID = "964262920962"
 LOCATION = "us"  # US multi-region
-SEARCH_ENGINE_ID = "master-search-gie_1765216371286"
+SEARCH_ENGINE_ID = "master-search-gie"
 SERVING_CONFIG_ID = "default_config"
 
 # Override with environment variables if needed
